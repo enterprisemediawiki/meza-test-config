@@ -1,13 +1,13 @@
 <?php
 
 // Title for the top of the landing page
-$blenderTitle = "Meza Wikis";
+$blenderTitle = "Meza Test Wikis";
 
 // Title for top-row wikis
 $blenderHeaderWikiTitle = false;
 
 // Wiki IDs to put in the top row
-$blenderHeaderWikis = array();
+$blenderHeaderWikis = array( 'top' );
 
 // Title for middle-row wikis. All wiki IDs not in top- or bottom-row
 // automatically go in middle row.
@@ -17,7 +17,7 @@ $blenderMiddleWikiTitle = false;
 $blenderFooterWikiTitle = false;
 
 // Wiki IDs to put in the bottom row
-$blenderFooterWikis = array();
+$blenderFooterWikis = array( 'bottom' );
 
 // Links for the bottom of the page
 $blenderFooterLinks = array(

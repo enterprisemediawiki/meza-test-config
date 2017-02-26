@@ -16,7 +16,7 @@
  *  - https://www.mediawiki.org/wiki/Manual:$wgSitename
  *  - https://www.mediawiki.org/wiki/Manual:$wgMetaNamespace
  **/
-$wgSitename = 'Test Wiki';
+$wgSitename = 'Middle One Wiki';
 
 /**
  * meza uses an authentication system with a few default types. See LocalSettings.php
@@ -26,7 +26,7 @@ $wgSitename = 'Test Wiki';
 /**
  * Enables several debugging options. FIXME: better docs (allow entering usernames)
  **/
-$mezaDebug = false;
+$mezaDebug = true;
 
 /**
  * Determines if this wiki has email enabled. In order for email to work the global
@@ -34,4 +34,4 @@ $mezaDebug = false;
  * $wgEnableEmail to true, and enable email. See:
  *  - https://www.mediawiki.org/wiki/Manual:$wgEnableEmail
  **/
-$mezaEnableWikiEmail = True;
+$mezaEnableWikiEmail = true;

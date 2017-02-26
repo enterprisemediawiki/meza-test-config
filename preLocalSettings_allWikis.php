@@ -16,7 +16,7 @@
 $mezaEnableAllWikiEmail = false;
 
 // https://www.mediawiki.org/wiki/Manual:$wgPasswordSender
-$wgPasswordSender = "admin@example.com";
+$wgPasswordSender = "James@example.com";
 
 // https://www.mediawiki.org/wiki/Manual:$wgEmergencyContact
 $wgEmergencyContact = $wgPasswordSender;
