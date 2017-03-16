@@ -3,3 +3,4 @@ list:
   - name: UserJourney
     repo: https://github.com/darenwelsh/UserJourney
     version: master
+    legacy_load: True
