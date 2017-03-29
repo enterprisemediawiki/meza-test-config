@@ -13,7 +13,7 @@
  *
  **/
 // disabled by default for now, should be enabled later for
-$mezaEnableAllWikiEmail = true;
+$mezaEnableAllWikiEmail = false;
 
 // https://www.mediawiki.org/wiki/Manual:$wgPasswordSender
 $wgPasswordSender = "admin@example.com";
