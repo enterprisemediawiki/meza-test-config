@@ -26,7 +26,7 @@ $wgSitename = 'Demo Wiki';
 /**
  * Enables several debugging options. FIXME: better docs (allow entering usernames)
  **/
-$mezaDebug = false;
+$mezaDebug = true;
 
 /**
  * Determines if this wiki has email enabled. In order for email to work the global
