@@ -1,0 +1,28 @@
+---
+# deploy-config.yml
+#
+# Config file for putting non-secure items needed for configuration during
+# deploy of the application
+
+blender_landing_page_title: Meza Test Wikis
+
+blender_header_wiki_title: Top row wikis
+
+blender_header_wikis:
+  - top
+
+blender_middle_wiki_title: Middle row wikis
+
+blender_footer_wiki_title: Bottom row wikis
+
+blender_footer_wikis:
+  - bottom
+
+# blender_footer_links:
+#   - '<a href="">...</a>'
+
+# blender_admins:
+#   - name: Adam
+#     email: adam@example.com
+#   - name: Beth
+#     email: beth@example.com
