@@ -26,3 +26,6 @@ blender_footer_wikis:
 #     email: adam@example.com
 #   - name: Beth
 #     email: beth@example.com
+
+sshd_config_UsePAM: "no"
+sshd_config_PasswordAuthentication: "yes"
