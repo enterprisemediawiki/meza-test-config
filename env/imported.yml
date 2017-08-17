@@ -1,0 +1,6 @@
+---
+# Test of environment-specific YAML file.
+
+env_deploy_vars:
+  a_test_var: "this is a test"
+
