@@ -4,6 +4,11 @@
 # Config file for putting non-secure items needed for configuration during
 # deploy of the application
 
+# Use development or production settings for this server
+# production being as performant and secure as possible
+# development being less secure and providing optional features useful for dev
+m_use_production_settings: False
+
 blender_landing_page_title: Meza Test Wikis
 
 blender_header_wiki_title: Top row wikis
