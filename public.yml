@@ -34,3 +34,7 @@ blender_footer_wikis:
 
 sshd_config_UsePAM: "no"
 sshd_config_PasswordAuthentication: "yes"
+
+# THIS MAY OR MAY NOT BE NEEDED
+# Skip firewalld tasks since they broke in Travis (Issue #1237)
+firewall_skip_tasks: True
